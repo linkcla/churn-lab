@@ -18,3 +18,6 @@ Además, he aprovechado este proyecto para introducirme en el uso de Docker, ent
 4. Modelado
 5. Validación
 6. Conclusiones
+
+## Dataset
+Enlace del dataset [https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
